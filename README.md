@@ -8,3 +8,6 @@ This set of tools is meant to be helpful for people involved in hardware design 
 [Labjack U6](https://labjack.com/products/u6) *tested*
 
 [PicoScope 5444D](https://www.picotech.com/oscilloscope/5000/flexible-resolution-oscilloscope) *tested*
+
+## Sensors used
+[Temperature LM35](https://www.ti.com/lit/ds/symlink/lm35.pdf)
