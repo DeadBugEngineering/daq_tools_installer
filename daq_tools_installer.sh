@@ -15,6 +15,9 @@ sudo -v
 sudo apt -y install git-core
 sudo -v
 sudo apt -y install ipython3
+
+mkdir -p ~/rawData/tempLog
+
 mkdir -p ~/github
 cd ~/github
 git clone https://github.com/labjack/exodriver.git
