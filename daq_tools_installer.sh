@@ -14,6 +14,7 @@ sudo apt -y install libusb-1.0-0-dev
 sudo -v
 sudo apt -y install git-core
 sudo -v
+sudo apt -y install ipython3
 mkdir -p ~/github
 cd ~/github
 git clone https://github.com/labjack/exodriver.git
