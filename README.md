@@ -11,3 +11,4 @@ This set of tools is meant to be helpful for people involved in hardware design 
 
 ## Sensors used
 [Temperature LM35](https://www.ti.com/lit/ds/symlink/lm35.pdf)
+The LM35 is a linear temperature sensor that comes in a SOIC8, TO-92 and TO-220 package and is very easy to use with its analog output of 10mV/°C. 
