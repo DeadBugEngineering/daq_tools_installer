@@ -14,7 +14,7 @@ This set of tools is meant to be helpful for people involved in hardware design 
 The LM35 is a linear temperature sensor that comes in a SOIC8, TO-92 and TO-220 package and is very easy to use with its analog output of 10mV/°C. 
 
 ## Scripts
-[daq_tools_installer.sh](https://github.com/DeadBugEngineering/daq_tools_installer/blob/main/daq_tools_installer.sh)
+### [daq_tools_installer.sh](https://github.com/DeadBugEngineering/daq_tools_installer/blob/main/daq_tools_installer.sh)
 This script is meant to be used on a freshly setup Linux Mint 20.3+ install.
-[tempLoggerU6_14xLM35.py](https://github.com/DeadBugEngineering/daq_tools_installer/blob/main/tempLoggerU6_14xLM35.py)
+### [tempLoggerU6_14xLM35.py](https://github.com/DeadBugEngineering/daq_tools_installer/blob/main/tempLoggerU6_14xLM35.py)
 This script logs the temperature of up to 14 LM35 sensors using a U6 Labjack. 
